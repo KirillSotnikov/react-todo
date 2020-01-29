@@ -16,6 +16,7 @@
   line-height: 35px;
   cursor: pointer;
   user-select: none;
+  transition: all .2s ease-in;
 }
 
 .todo-list-item.done .todo-list-item-label {
