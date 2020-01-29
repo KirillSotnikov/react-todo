@@ -1,5 +1,5 @@
 ToDo Application
 
-- finished 40 lesson
+- finished 41 lesson
 
 - https://coursehunter.net/course/react-redux-professionalnaya-razrabotka
